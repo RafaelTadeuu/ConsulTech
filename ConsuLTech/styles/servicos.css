@@ -1,0 +1,20 @@
+#solucoesid ul li:nth-child(odd){
+    background-color: #9ae4f3;
+}
+
+#solucoesid ul{
+    margin-top:3rem;
+    margin-bottom:2rem;
+    font-size: 16px;
+}
+#solucoesid ul li{
+    padding:1.25rem;
+}
+
+#solucoesid{
+    font-size:16px;
+}
+
+p a{
+    color: #25c1e0;
+}
